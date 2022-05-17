@@ -20,12 +20,6 @@ Hemos dividido el código en tres scripts:
 Hemos utilizado la libreria numpy y random, además de las propias creadas para el desarrollo del código, varibales y funciones.
 Como recurso extra a los vistos en clase, hemos utilizado los métodos de numpy array any y all, para construir la condición de nuestro while.
 
-## Commit:
-El planteamiento general del desarrollo del código se ha realizado de manera conjunta.
-* Toni: Lógica interna de los bucles.
-* Sara: Creación de las funciones y variables, introducción de textos e instrucciones, corrección de posibles fallos al insertar inputs erróneos, organización de archivos y redacción de README.
-* En todas las tareas relacionadas con el proyecto la aportación ha sido conjunta en mayor o menor parte. 
-
 ## Archivos adjuntos:
 * scr: aquí se encuentran todos los scripts creados, tanto correctos como erróneos, utilizados a lo largo del derarrollo del proyecto.
 * notebooks: aquí se encuentran todos los notebooks creados, tanto correctos como erróneos, utilizados a lo largo del derarrollo del proyecto. Hemos trabajdo también notebooks debido a problemas con los scripts en el ordenador de Toni.
